@@ -1,0 +1,57 @@
+.about{
+    display: flex;
+    flex-direction: row;
+    flex-wrap:wrap;
+    justify-content:left;
+    height: 50vw;
+    color: rgb(5, 5, 5);
+    font-family: 'Rethink Sans', sans-serif;
+    background-size: contain;
+    background-position: center;
+}  
+
+.about h1{
+    width: 50%;
+    height: 0.1%;
+    text-align: center;
+    margin-top: 3vw;
+    font-size: 3vw;
+    font-family: 'Rethink Sans', sans-serif;
+    font-weight: bold;
+}
+.about p{
+    margin: 0vw 3vw 0vw 3vw;
+}
+.about div{
+    display: flex;
+    flex-flow: row wrap;
+}
+.about .a1{
+    flex-direction: column;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+    width: 30vw;
+    margin-bottom: 5vw;
+    font-size: 1.3vw;
+    gap: 1rem;
+}
+.ap1{
+    width: 50%;
+    font-size: 1.5vw;
+    
+}
+.a2{
+    width: 100%;
+    justify-content: center;
+    flex-wrap: nowrap;
+}
+.a2 h2{
+    font-size: 3vw;    
+}
+.a2 p{
+    width: 100%;
+    text-align: center;
+    font-size: 2vw;
+    margin-bottom: 3vw;
+}

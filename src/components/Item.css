@@ -1,0 +1,15 @@
+.ver-mas{
+    background-color: antiquewhite;
+    border-radius: 1rem;
+    padding: .2rem;
+    font-family: 'Rethink Sans', sans-serif;
+    cursor: pointer;
+    border: solid antiquewhite;
+}  
+.ver-mas:hover{
+    background-color: darksalmon;
+}  
+.producto div a{
+    text-decoration: none;
+    color: black;
+}

@@ -1,0 +1,282 @@
+[
+  {
+    "titulo": "Kimono",
+    "descripcion": "Kimono importado playero, ideal para la playa.",
+    "categoria": "Indumentaria",
+    "imagen": "imagenes/outfits/7 ideas de outfits perfectos para ir a la playa en Semana Santa.png",
+    "precio": 55800,
+    "stock": true,
+    "talles": [
+      {
+        "nombre": "S",
+        "stock": 5,
+        "colores": [
+          { "nombre": "Rojo" },
+          { "nombre": "Azul" },
+          { "nombre": "Verde" }
+        ]
+      },
+      {
+        "nombre": "M",
+        "stock": 10,
+        "colores": [
+          { "nombre": "Rojo" },
+          { "nombre": "Azul" },
+          { "nombre": "Verde" }
+        ]
+      },
+      {
+        "nombre": "L",
+        "stock": 8,
+        "colores": [
+          { "nombre": "Rojo" },
+          { "nombre": "Azul" },
+          { "nombre": "Verde" }
+        ]
+      }
+    ]
+  },
+
+  {
+    "titulo": "Pantalón",
+    "descripcion": "Pantalón de diseño moderno y cómodo.",
+    "categoria": "Indumentaria",
+    "imagen": "imagenes/outfits/des.jpg",
+    "precio": 40000,
+    "stock": true,
+    "talles": [
+      {
+        "nombre": "S",
+        "stock": 5,
+        "colores": [
+          { "nombre": "Rojo" },
+          { "nombre": "Azul" },
+          { "nombre": "Verde" }
+        ]
+      },
+      {
+        "nombre": "M",
+        "stock": 10,
+        "colores": [
+          { "nombre": "Rojo" },
+          { "nombre": "Azul" },
+          { "nombre": "Verde" }
+        ]
+      },
+      {
+        "nombre": "L",
+        "stock": 8,
+        "colores": [
+          { "nombre": "Rojo" },
+          { "nombre": "Azul" },
+          { "nombre": "Verde" }
+        ]
+      }
+    ]
+  },
+  {
+    "titulo": "Botas",
+    "descripcion": "Botas elegantes y duraderas.",
+    "categoria": "Calzado",
+    "imagen": "imagenes/zapatos/zapatos4.png",
+    "precio": 95000,
+    "stock": 12
+  },
+  {
+    "titulo": "Cartera Mini",
+    "descripcion": "Cartera pequeña pero espaciosa.",
+    "categoria": "Accesorios",
+    "imagen": "imagenes/carteras/cartera1.jpg",
+    "precio": 125000,
+    "stock": 7
+  },
+  {
+    "titulo": "Conjunto Winter",
+    "descripcion": "Conjunto invernal para mantenerse abrigado y con estilo.",
+    "categoria": "Indumentaria",
+    "imagen": "imagenes/outfits/tutorial-cabello - mujer de 10_ Guía real para la mujer actual_ entérate ya_.jpg",
+    "precio": 399999,
+    "stock": true,
+    "talles": [
+      {
+        "nombre": "S",
+        "stock": 5,
+        "colores": [
+          { "nombre": "Rojo" },
+          { "nombre": "Azul" },
+          { "nombre": "Verde" }
+        ]
+      },
+      {
+        "nombre": "M",
+        "stock": 10,
+        "colores": [
+          { "nombre": "Rojo" },
+          { "nombre": "Azul" },
+          { "nombre": "Verde" }
+        ]
+      },
+      {
+        "nombre": "L",
+        "stock": 8,
+        "colores": [
+          { "nombre": "Rojo" },
+          { "nombre": "Azul" },
+          { "nombre": "Verde" }
+        ]
+      }
+    ]
+  },
+  {
+    "titulo": "Zapatos",
+    "descripcion": "Zapatos elegantes y confortables.",
+    "categoria": "Calzado",
+    "imagen": "imagenes/zapatos/zapatos3.png",
+    "precio": 70500,
+    "stock": 5
+  },
+  {
+    "titulo": "Prensas",
+    "descripcion": "Prensas para el cabello en varios colores.",
+    "categoria": "Accesorios",
+    "imagen": "imagenes/accesorios101.png",
+    "precio": 8000,
+    "stock": 0
+  },
+  {
+    "titulo": "Texanas",
+    "descripcion": "Texanas tradicionales y elegantes.",
+    "categoria": "Calzado",
+    "imagen": "imagenes/zapatos/tex2.jpg",
+    "precio": 120000,
+    "stock": 4
+  },
+  {
+    "titulo": "Mono",
+    "descripcion": "Mono de diseño versátil y cómodo.",
+    "categoria": "Indumentaria",
+    "imagen": "imagenes/outfits/10 outfits rápidos de dos prendas para la verte bien en la oficina.jpg",
+    "precio": 90000,
+    "stock": true,
+    "talles": [
+      {
+        "nombre": "S",
+        "stock": 5,
+        "colores": [
+          { "nombre": "Rojo" },
+          { "nombre": "Azul" },
+          { "nombre": "Verde" }
+        ]
+      },
+      {
+        "nombre": "M",
+        "stock": 10,
+        "colores": [
+          { "nombre": "Rojo" },
+          { "nombre": "Azul" },
+          { "nombre": "Verde" }
+        ]
+      },
+      {
+        "nombre": "L",
+        "stock": 8,
+        "colores": [
+          { "nombre": "Rojo" },
+          { "nombre": "Azul" },
+          { "nombre": "Verde" }
+        ]
+      }
+    ]
+  },
+  {
+    "titulo": "Vestido",
+    "descripcion": "Vestido elegante y sofisticado.",
+    "categoria": "Indumentaria",
+    "imagen": "imagenes/outfits/elegant.jpg",
+    "precio": 300000,
+    "stock": true,
+    "talles": [
+      {
+        "nombre": "S",
+        "stock": 5,
+        "colores": [
+          { "nombre": "Rojo" },
+          { "nombre": "Azul" },
+          { "nombre": "Verde" }
+        ]
+      },
+      {
+        "nombre": "M",
+        "stock": 10,
+        "colores": [
+          { "nombre": "Rojo" },
+          { "nombre": "Azul" },
+          { "nombre": "Verde" }
+        ]
+      },
+      {
+        "nombre": "L",
+        "stock": 8,
+        "colores": [
+          { "nombre": "Rojo" },
+          { "nombre": "Azul" },
+          { "nombre": "Verde" }
+        ]
+      }
+    ]
+  },
+  {
+    "titulo": "Aros Mariposa",
+    "descripcion": "Aros pequeños en forma de mariposa.",
+    "categoria": "Accesorios",
+    "imagen": "imagenes/aros/ar2.jpg",
+    "precio": 5000,
+    "stock": 6
+  },
+  {
+    "titulo": "Cartera Dolce",
+    "descripcion": "Cartera de lujo Dolce & Gabbana.",
+    "categoria": "Accesorios",
+    "imagen": "imagenes/carteras/Dolce&Gabbana.jpg",
+    "precio": 500000,
+    "stock": 2
+  },
+  {
+    "titulo": "Conjunto Sastrero",
+    "descripcion": "Conjunto sastrero con tela importada Italiana.",
+    "categoria": "Indumentaria",
+    "imagen": "imagenes/outfits/descarga (5).jpg",
+    "precio": 82500,
+    "stock": true,
+    "talles": [
+      {
+        "nombre": "S",
+        "stock": 5,
+        "colores": [
+          { "nombre": "Rojo" },
+          { "nombre": "Azul" },
+          { "nombre": "Verde" }
+        ]
+      },
+      {
+        "nombre": "M",
+        "stock": 10,
+        "colores": [
+          { "nombre": "Rojo" },
+          { "nombre": "Azul" },
+          { "nombre": "Verde" }
+        ]
+      },
+      {
+        "nombre": "L",
+        "stock": 8,
+        "colores": [
+          { "nombre": "Rojo" },
+          { "nombre": "Azul" },
+          { "nombre": "Verde" }
+        ]
+      }
+    ]
+  }
+]
+

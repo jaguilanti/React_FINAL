@@ -1,0 +1,87 @@
+.container{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-top: 3%;
+}
+.producto-detalle{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    width: 50%;
+    gap: 1rem;
+}
+.labels{
+    display: flex;
+    flex-direction: column;
+    gap: .5rem;
+}
+.productos{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 3rem;
+}
+.producto{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 10px;
+    text-align: center;
+    border-radius: 2rem;
+    border: solid 2px rgb(255, 181, 71);
+    background-color: rgb(253, 221, 174);
+}
+.contenedor-img {
+    display: block;
+    height: 50%;
+}
+.contenedor-img img{
+    width: 20rem;
+    border-radius: 3rem;
+}
+.titulo{
+    font-size: 3rem;
+}
+.descripcion{
+    font-size: 1.5rem;
+}
+.precio{
+    font-size: 2rem;
+    font-weight: bolder;
+}
+.agregar-al-carrito{
+    background-color: antiquewhite;
+    border-radius: 1rem;
+    padding: .2rem;
+    font-family: 'Rethink Sans', sans-serif;
+    cursor: pointer;
+    border: solid antiquewhite;
+}
+.agregar-al-carrito:hover {
+    background-color: darksalmon;
+}
+.producto img{  
+    width: 10rem;
+    height: 100% ;
+    border-radius: 1rem;
+    background-color: antiquewhite;
+    padding: 1.2rem;
+}
+.item-count{
+    display: flex;
+    height: 2rem;
+    
+    gap: .5rem;
+    color: black;
+    margin-bottom: .5rem;
+}
+.item-count button{
+    width: 2.5rem;
+    height: 1.5rem;
+    border:  none;
+    border-radius: 1rem;
+    background-color: antiquewhite;
+    
+}
